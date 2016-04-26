@@ -1,7 +1,7 @@
 name: geziyoruz
 favicon: null
-layout_spectrum: 0.5590521276462823
-typography_spectrum: 0.906310994643718
+layout_spectrum: 1
+typography_spectrum: 0.44083
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.6666544938925654
+    - '#d1cfc3'
+    - '#3f5a6f'
+    - '#fef5ee'
+    - '#908f8b'
+    - '#e77978'
+  brandStrength: 0.5
   lightness: 0.7908075076993555
-  saturation: 0.34350302489474416
-  rhythmicContrast: 0.3531009473372251
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
